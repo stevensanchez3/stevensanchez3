@@ -1,0 +1,18 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Se ejecuta cada 12 horas (puedes cambiarlo si quieres que sea más o menos frecuente)
+  workflow_dispatch: # Permite ejecutar la acción manualmente desde la pestaña "Actions"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Usa la versión más reciente
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: stevensanchez3 # ¡IMPORTANTE! Asegúrate de que esto sea tu nombre de usuario de GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
