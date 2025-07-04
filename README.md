@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>¡Hola a todos! 👋 Soy [Tu Nombre]</h1>
-  <p>Ingeniero/Desarrollador de Sistemas | Enfocado en [Tu área principal, ej: Backend, DevOps, Frontend, Cloud]</p>
+  <h1>¡Hola a todos! 👋 Soy [Steven Sanchez]</h1>
+  <p>Analista de Sistemas | Enfocado en [Tu área principal, ej: Backend, DevOps, Frontend, Cloud]</p>
 </div>
 
 ---
