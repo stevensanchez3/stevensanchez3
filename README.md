@@ -1,5 +1,4 @@
 <div align="center">
-
   <h1>¡Hola a todos! 👋 Soy [Tu Nombre]</h1>
   <p>Ingeniero/Desarrollador de Sistemas | Enfocado en [Tu área principal, ej: Backend, DevOps, Frontend, Cloud]</p>
 </div>
@@ -47,7 +46,7 @@ Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias popu
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stevensanchez3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensanchez3&theme=dark" alt="Racha de contribuciones" />
-</div>
+  </div>
 
 ---
 
@@ -68,6 +67,15 @@ Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias popu
 ---
 
 _¡Gracias por visitar mi perfil!_
+
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExOXMzeWpsZDM1YnVqOXV6c2ZjZTRyY2E2OTl6Yzk5YXp3YmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="250" length="200" alt="Coding GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExOXMzeWpsZDM1YnVqOXV6c2ZjZTRyY2E2OTl6Yzk5YXp3YmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="200" height="400" alt="Coding GIF" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/dist/github-contribution-grid-snake-dark.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/dist/github-contribution-grid-snake.svg?sanitize=true">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/dist/github-contribution-grid-snake.svg?sanitize=true">
+  </picture>
 </div>
