@@ -42,12 +42,12 @@ Actualmente estoy enfocado en:
 
 ### 📈 Mis Estadísticas de GitHub (Opcional)
 
-Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias populares. Asegúrate de **reemplazar `tu-usuario-github` con tu nombre de usuario real**.
+Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias populares. Asegúrate de **reemplazar `stevensanchez3` con tu nombre de usuario real**.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark" alt="Racha de contribuciones" />
-  <img src="https://readme-stats-alpha.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stevensanchez3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensanchez3&theme=dark" alt="Racha de contribuciones" />
+  <img src="https://readme-stats-alpha.vercel.app/api/top-langs/?username=stevensanchez3&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
 
 ---
