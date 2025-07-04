@@ -3,12 +3,9 @@
   <p>Analista de Sistemas | Enfocado en Infraestructura y ciberseguridad: Redes Seguras y Arquitecturas de Confianza Cero (Zero Trust),Monitoreo continuo y observabilidad para infraestructura crítica</p>
 </div>
 
----
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Sobre mi
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
-
-<br><br>
 Soy un apasionado [Tu Rol, ej: Ingeniero de Software, Desarrollador de Sistemas, Especialista DevOps] con experiencia en la construcción y optimización de soluciones robustas y escalables. Me encanta resolver problemas complejos y siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades.
 
 Actualmente estoy enfocado en:
@@ -16,9 +13,7 @@ Actualmente estoy enfocado en:
 - 📚 [Alguna tecnología o concepto que estés aprendiendo, ej: Kubernetes, Rust, Machine Learning]
 
 ---
-
-### 🛠️ Mis Habilidades y Tecnologías
-
+### Mis Habilidades y Tecnologías
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="20" alt="typescript logo"  />
   <img width="12" />
@@ -37,9 +32,8 @@ Actualmente estoy enfocado en:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
-</div>
+</div> 
 
----
 
 ### 📈 Mis Estadísticas de GitHub (Opcional)
 
@@ -67,7 +61,22 @@ Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias popu
   </div>
 
 ---
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
+  </a>
+</p>
 
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 _¡Gracias por visitar mi perfil!_
 
 <div align="left">
