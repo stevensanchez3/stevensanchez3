@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>¡Hola a todos! 👋 Soy [Steven Sanchez]</h1>
-  <p>Analista de Sistemas | Enfocado en [Infraestructura y cyberseguridad: Redes Seguras y Arquitecturas de Confianza Cero (Zero Trust),Monitoreo continuo y observabilidad para infraestructura crítica]</p>
+  <h1>¡Hola a todos! 👋 Soy Steven Sanchez</h1>
+  <p>Analista de Sistemas | Enfocado en Infraestructura y ciberseguridad: Redes Seguras y Arquitecturas de Confianza Cero (Zero Trust),Monitoreo continuo y observabilidad para infraestructura crítica</p>
 </div>
 
 ---
