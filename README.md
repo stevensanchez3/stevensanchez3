@@ -65,10 +65,11 @@ Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias popu
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlqz/giphy.gif" width="300" alt="Programming GIF" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 _¡Gracias por visitar mi perfil!_
