@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExOXMzeWpsZDM1YnVqOXV6c2ZjZTRyY2E2OTl6Yzk5YXp3YmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="250" alt="Coding GIF" />
   <h1>¡Hola a todos! 👋 Soy [Tu Nombre]</h1>
   <p>Ingeniero/Desarrollador de Sistemas | Enfocado en [Tu área principal, ej: Backend, DevOps, Frontend, Cloud]</p>
@@ -47,7 +47,6 @@ Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias popu
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stevensanchez3&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevensanchez3&theme=dark" alt="Racha de contribuciones" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevensanchez3&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
 
 ---
