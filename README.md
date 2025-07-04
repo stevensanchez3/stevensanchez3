@@ -44,9 +44,28 @@ Actualmente estoy enfocado en:
 
 Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias populares. Asegúrate de **reemplazar `tu-usuario-github` con tu nombre de usuario real**.
 
-```html
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true)" alt="Estadísticas de GitHub" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark)" alt="Racha de contribuciones" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark)" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark" alt="Racha de contribuciones" />
+  <img src="https://readme-stats-alpha.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark" alt="Lenguajes más usados" />
 </div>
+
+---
+
+### 🌐 Conéctate conmigo
+
+<div align="center">
+  <a href="TU_ENLACE_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="TU_ENLACE_TWITTER" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="TU_ENLACE_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  </div>
+
+---
+
+_¡Gracias por visitar mi perfil!_
