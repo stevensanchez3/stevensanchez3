@@ -66,6 +66,9 @@ Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias popu
   </a>
   </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlqz/giphy.gif" width="300" alt="Programming GIF" />
+</div>
 ---
 
 _¡Gracias por visitar mi perfil!_
