@@ -1,21 +1,22 @@
-<h2 align="center">Hey 👋What's Up?</h2>
-
-###
-
 <div align="center">
-  </div>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/dist/github-contribution-grid-snake-dark.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/dist/github-contribution-grid-snake.svg?sanitize=true">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stevensanchez3/stevensanchez3/dist/github-contribution-grid-snake.svg?sanitize=true">
-  </picture>
+  <img src="https://media.giphy.com/media/QvR3F1gYQxG63c6dY7/giphy.gif" width="300" alt="Coding GIF" />
+  <h1>¡Hola a todos! 👋 Soy [Tu Nombre]</h1>
+  <p>Ingeniero/Desarrollador de Sistemas | Enfocado en [Tu área principal, ej: Backend, DevOps, Frontend, Cloud]</p>
 </div>
 
-###
+---
+
+### 🚀 Acerca de mí
+
+Soy un apasionado [Tu Rol, ej: Ingeniero de Software, Desarrollador de Sistemas, Especialista DevOps] con experiencia en la construcción y optimización de soluciones robustas y escalables. Me encanta resolver problemas complejos y siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades.
+
+Actualmente estoy enfocado en:
+- 💡 [Tu enfoque actual, ej: Arquitecturas de microservicios, Infraestructura como Código]
+- 📚 [Alguna tecnología o concepto que estés aprendiendo, ej: Kubernetes, Rust, Machine Learning]
+
+---
+
+### 🛠️ Mis Habilidades y Tecnologías
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -37,10 +38,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
 </div>
 
-###
+---
 
+### 📈 Mis Estadísticas de GitHub (Opcional)
+
+Si quieres mostrar tus estadísticas de GitHub, puedes usar estas insignias populares. Asegúrate de **reemplazar `tu-usuario-github` con tu nombre de usuario real**.
+
+```html
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="[https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&theme=dark&include_all_commits=true&count_private=true)" alt="Estadísticas de GitHub" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario-github&theme=dark)" alt="Racha de contribuciones" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark)" alt="Lenguajes más usados" />
 </div>
