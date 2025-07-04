@@ -6,7 +6,7 @@
 ---
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></picture>
 
 <br><br>
 Soy un apasionado [Tu Rol, ej: Ingeniero de Software, Desarrollador de Sistemas, Especialista DevOps] con experiencia en la construcción y optimización de soluciones robustas y escalables. Me encanta resolver problemas complejos y siempre estoy aprendiendo nuevas tecnologías para mejorar mis habilidades.
