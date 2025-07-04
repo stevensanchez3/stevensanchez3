@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI3d2RtdGlmN2ZvNWFqMHUyOGVlaTN5ODIzbGVhazZzODR5dWttZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohrytNWkgnqMaiS8E/giphy.gif" width="300" alt="Coding GIF" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExOXMzeWpsZDM1YnVqOXV6c2ZjZTRyY2E2OTl6Yzk5YXp3YmVwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300" alt="Coding GIF" />
   <h1>¡Hola a todos! 👋 Soy [Tu Nombre]</h1>
   <p>Ingeniero/Desarrollador de Sistemas | Enfocado en [Tu área principal, ej: Backend, DevOps, Frontend, Cloud]</p>
 </div>
